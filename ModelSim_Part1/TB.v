@@ -5,8 +5,8 @@ module A;
     part1 U( A, B, P );
 
     initial begin
-        $dumpfile ("testII.vcd");
-        $dumpvars (0,A);
+        $dumpfile ("testI.vcd");
+        $dumpvars;
     
     end
 endmodule
