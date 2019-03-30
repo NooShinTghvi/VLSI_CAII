@@ -5,3 +5,6 @@
 *.wlf
 
 work
+
+.idea
+venv
