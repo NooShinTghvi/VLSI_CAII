@@ -14,7 +14,5 @@ def calcProbabilities() :
 
     outputFile.close()
     inputFile.close()
-    
-                
-
+             
 calcProbabilities()
