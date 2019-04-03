@@ -1,7 +1,7 @@
 from __future__ import division
 def calcProbabilities() :
     counts = [0] * 16
-    inputFile = open("../input.txt","r") 
+    inputFile = open("input.txt","r") 
     outputFile = open("probabilities.txt","w") 
     for line in inputFile:
         for j in range(0, len(line)):
